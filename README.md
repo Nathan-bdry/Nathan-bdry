@@ -14,4 +14,4 @@ Software engineering student at **JUNIA ISEN** (Lille), focused on **DeFi, Web3,
 
 ### Looking for
 
-DeFi / Web3 **internships** and junior roles: protocol engineering, on-chain tooling, or quantitative software. Based in France, open to remote and Switzerland long-term.
+DeFi / Web3 **internships** and junior roles: protocol engineering, on-chain tooling, or quantitative software. Based in France, open to remote and every country.
