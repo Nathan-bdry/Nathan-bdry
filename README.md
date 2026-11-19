@@ -5,7 +5,6 @@ I build **DeFi lending systems and on-chain tooling**, and I'm looking for a **3
 
 ### 🔧 What I'm working on
 - **[defi-lending-simulator](https://github.com/Nathan-bdry/defi-lending-simulator)**: overcollateralized lending engine (health factor, kinked interest rates, liquidations), Java 21, 64 tests
-- **JSON-RPC Explorer / Wallet Monitor**: reading and decoding on-chain data straight from Ethereum nodes
 - Currently: porting the lending engine to **Solidity + Foundry** (fuzz & invariant tests, testnet deployment)
 
 ### 🧰 Stack
